@@ -1,4 +1,4 @@
-# Analysis of the movie and movie makers data provided by TMDB
+# Analysis of the movie data provided by TMDB
 
 * [TMDB Documentation](developer.themoviedb.org/docs)
 * [TMDB API reference](https://developer.themoviedb.org/reference/intro/getting-started)
@@ -247,22 +247,3 @@ The response structure is similar to the recommendations endpoint.
 Also the similar data is available for [TV shows](https://developer.themoviedb.org/reference/tv-series-details),
 [their seasons](https://developer.themoviedb.org/reference/tv-season-details),
 and [episodes](https://developer.themoviedb.org/reference/tv-episode-details).
-
-
-## People data
-
-
-## Movie lists
-
-
-## Genres
-
-
-## Discover
-
-
-## Credits
-
-
-## Search
-
