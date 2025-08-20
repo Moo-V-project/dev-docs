@@ -3,6 +3,8 @@
 * [TMDB Documentation](developer.themoviedb.org/docs)
 * [TMDB API reference](https://developer.themoviedb.org/reference/intro/getting-started)
 
+For the requests it's possible to use [append-to-response](https://developer.themoviedb.org/docs/append-to-response) to fetch data from multiple endpoints in a single request.
+
 **Wrote with ChatGPT**
 
 ## Movie data
