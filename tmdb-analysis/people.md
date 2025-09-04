@@ -97,7 +97,7 @@ The response contains general information about a person.
     - **poster_path** (`string`) – Path to the season’s poster image.
     - **season_number** (`integer`, default: `0`) – Season number.
     - **show_id** (`integer`, default: `0`) – Linked show ID.
-    - **media_type** (`string`) – Type of media (should be `tv`).
+    - **media_type** (`string`) – Type of media.
 
 - **id** (`string`)
   Unique identifier for the credit.
